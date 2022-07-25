@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-table-fixed-header",
+  "version": "1.0.0",
+  "description": "Responsive Table Fixed Header built with Bootstrap 5. Use this option to make your table header sticky to the top while scrolling",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-table-fixed-header.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-table-fixed-header/issues"
+  },
+  "homepage": "https://github.com/mdbootstrap/bootstrap-table-fixed-header#readme"
+}
